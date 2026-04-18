@@ -1,0 +1,1 @@
+Model ML wykrywa oszustwa skuteczniej niż reguły, ponieważ analizuje relacje między wieloma cechami zamiast polegać na sztywnych progach kwotowych. Dzięki zwracaniu prawdopodobieństwa zamiast binarnego wyniku tak/nie, system pozwala na znacznie precyzyjniejszą ocenę ryzyka i wykrywanie subtelnych wzorców w czasie rzeczywistym,
