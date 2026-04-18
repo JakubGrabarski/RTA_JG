@@ -130,4 +130,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-!important**/{{cookiecutter.work_directory}}
+!important**/{{cookiecutter.work_directory}}compose.yaml
+Dockerfile
+.gitignore
